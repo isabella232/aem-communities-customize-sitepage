@@ -1,16 +1,5 @@
-# communities-customize-sitepage
-AEM Communities Summit 2016 Lab 323 example code snippets
+# L323 - Building online communities and engaging your customers
 
-URLS for Demo
+Visit the [Lab Assitant - Wiki](https://github.com/Adobe-Marketing-Cloud/communities-customize-sitepage/wiki) for the Lab Assistant.
 
-[Publish URL for Communities Site](http://localhost:4503/content/sites/communities/en.html)
-
-[Publish URL for Communities Forum Page](http://localhost:4503/content/sites/communities/en/forum.html)
-
-[Publish URL for Demo Site](http://localhost:4503/content/sites/demo/en.html)
-
-[Author Communities Landing Page] (http://localhost:4502/communities/sites.html)
-
-[Author crx/de] (http://localhost:4502/crx/de)
-
-
+This repository has code snippets and samples that will help you walk through the lab workbook and introduce you to the concepts behind AEM Communitiy Sites.
